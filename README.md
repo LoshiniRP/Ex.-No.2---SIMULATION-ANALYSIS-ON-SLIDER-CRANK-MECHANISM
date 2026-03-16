@@ -57,4 +57,4 @@ Scale: 10 m/s = 100 mm (say)
 ### REGISTER NUMBER: 212225230155
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
